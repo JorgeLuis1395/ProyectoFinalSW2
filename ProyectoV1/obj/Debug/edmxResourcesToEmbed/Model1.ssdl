@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="software2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="CEDULA_CLIENTE" />
+    </Key>
+    <Property Name="CEDULA_CLIENTE" Type="int" Nullable="false" />
+    <Property Name="NOMBRE" Type="char" MaxLength="256" />
+    <Property Name="APELLIDO" Type="char" MaxLength="256" />
+    <Property Name="DIRECCION" Type="char" MaxLength="256" />
+    <Property Name="TELEFONOS" Type="char" MaxLength="256" />
+    <Property Name="CORREOELECTRONICO" Type="char" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="HABITACION">
+    <Key>
+      <PropertyRef Name="NUMERO_HABITACION" />
+    </Key>
+    <Property Name="NUMERO_HABITACION" Type="int" Nullable="false" />
+    <Property Name="ID_TIPOHABITACION" Type="int" />
+    <Property Name="NUMERO_PISO" Type="int" />
+    <Property Name="NUMERO_HABITACION_PISO" Type="int" />
+  </EntityType>
+  <EntityType Name="RESERVA">
+    <Key>
+      <PropertyRef Name="ID_RESERVA" />
+    </Key>
+    <Property Name="ID_RESERVA" Type="int" Nullable="false" />
+    <Property Name="IDRESERVAHABITACION" Type="int" />
+    <Property Name="CEDULA_CLIENTE" Type="int" />
+    <Property Name="FECHA_RESERVA_INICIO" Type="char" MaxLength="256" />
+    <Property Name="FECHA_RESERVA_FIN" Type="char" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="RESERVA_HABITACION">
+    <Key>
+      <PropertyRef Name="IDRESERVAHABITACION" />
+    </Key>
+    <Property Name="IDRESERVAHABITACION" Type="int" Nullable="false" />
+    <Property Name="ID_TIPOHABITACION" Type="int" />
+    <Property Name="CANTIDADHABITACION" Type="int" />
+    <Property Name="FECHA_INICIO" Type="char" MaxLength="256" />
+    <Property Name="FECHA_FIN" Type="char" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="TIPO_HABITACION">
+    <Key>
+      <PropertyRef Name="ID_TIPOHABITACION" />
+    </Key>
+    <Property Name="ID_TIPOHABITACION" Type="int" Nullable="false" />
+    <Property Name="PRECIO" Type="int" />
+    <Property Name="DETALLE" Type="char" MaxLength="256" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'software2.sys.database_firewall_rules' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="database_firewall_rules">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="start_ip_address" />
+      <PropertyRef Name="end_ip_address" />
+      <PropertyRef Name="create_date" />
+      <PropertyRef Name="modify_date" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="start_ip_address" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="end_ip_address" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="create_date" Type="datetime" Nullable="false" />
+    <Property Name="modify_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="software2ModelStoreContainer">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HABITACION" EntityType="Self.HABITACION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RESERVA" EntityType="Self.RESERVA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RESERVA_HABITACION" EntityType="Self.RESERVA_HABITACION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TIPO_HABITACION" EntityType="Self.TIPO_HABITACION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="database_firewall_rules" EntityType="Self.database_firewall_rules" store:Type="Views" store:Schema="sys">
+      <DefiningQuery>SELECT 
+    [database_firewall_rules].[id] AS [id], 
+    [database_firewall_rules].[name] AS [name], 
+    [database_firewall_rules].[start_ip_address] AS [start_ip_address], 
+    [database_firewall_rules].[end_ip_address] AS [end_ip_address], 
+    [database_firewall_rules].[create_date] AS [create_date], 
+    [database_firewall_rules].[modify_date] AS [modify_date]
+    FROM [sys].[database_firewall_rules] AS [database_firewall_rules]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

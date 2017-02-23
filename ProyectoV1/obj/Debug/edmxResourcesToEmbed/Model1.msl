@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="software2ModelStoreContainer" CdmEntityContainer="software2Entities">
+    <EntitySetMapping Name="CLIENTE">
+      <EntityTypeMapping TypeName="software2Model.CLIENTE">
+        <MappingFragment StoreEntitySet="CLIENTE">
+          <ScalarProperty Name="CEDULA_CLIENTE" ColumnName="CEDULA_CLIENTE" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="APELLIDO" ColumnName="APELLIDO" />
+          <ScalarProperty Name="DIRECCION" ColumnName="DIRECCION" />
+          <ScalarProperty Name="TELEFONOS" ColumnName="TELEFONOS" />
+          <ScalarProperty Name="CORREOELECTRONICO" ColumnName="CORREOELECTRONICO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HABITACION">
+      <EntityTypeMapping TypeName="software2Model.HABITACION">
+        <MappingFragment StoreEntitySet="HABITACION">
+          <ScalarProperty Name="NUMERO_HABITACION" ColumnName="NUMERO_HABITACION" />
+          <ScalarProperty Name="ID_TIPOHABITACION" ColumnName="ID_TIPOHABITACION" />
+          <ScalarProperty Name="NUMERO_PISO" ColumnName="NUMERO_PISO" />
+          <ScalarProperty Name="NUMERO_HABITACION_PISO" ColumnName="NUMERO_HABITACION_PISO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESERVA">
+      <EntityTypeMapping TypeName="software2Model.RESERVA">
+        <MappingFragment StoreEntitySet="RESERVA">
+          <ScalarProperty Name="ID_RESERVA" ColumnName="ID_RESERVA" />
+          <ScalarProperty Name="IDRESERVAHABITACION" ColumnName="IDRESERVAHABITACION" />
+          <ScalarProperty Name="CEDULA_CLIENTE" ColumnName="CEDULA_CLIENTE" />
+          <ScalarProperty Name="FECHA_RESERVA_INICIO" ColumnName="FECHA_RESERVA_INICIO" />
+          <ScalarProperty Name="FECHA_RESERVA_FIN" ColumnName="FECHA_RESERVA_FIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESERVA_HABITACION">
+      <EntityTypeMapping TypeName="software2Model.RESERVA_HABITACION">
+        <MappingFragment StoreEntitySet="RESERVA_HABITACION">
+          <ScalarProperty Name="IDRESERVAHABITACION" ColumnName="IDRESERVAHABITACION" />
+          <ScalarProperty Name="ID_TIPOHABITACION" ColumnName="ID_TIPOHABITACION" />
+          <ScalarProperty Name="CANTIDADHABITACION" ColumnName="CANTIDADHABITACION" />
+          <ScalarProperty Name="FECHA_INICIO" ColumnName="FECHA_INICIO" />
+          <ScalarProperty Name="FECHA_FIN" ColumnName="FECHA_FIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPO_HABITACION">
+      <EntityTypeMapping TypeName="software2Model.TIPO_HABITACION">
+        <MappingFragment StoreEntitySet="TIPO_HABITACION">
+          <ScalarProperty Name="ID_TIPOHABITACION" ColumnName="ID_TIPOHABITACION" />
+          <ScalarProperty Name="PRECIO" ColumnName="PRECIO" />
+          <ScalarProperty Name="DETALLE" ColumnName="DETALLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="database_firewall_rules">
+      <EntityTypeMapping TypeName="software2Model.database_firewall_rules">
+        <MappingFragment StoreEntitySet="database_firewall_rules">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="start_ip_address" ColumnName="start_ip_address" />
+          <ScalarProperty Name="end_ip_address" ColumnName="end_ip_address" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="modify_date" ColumnName="modify_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

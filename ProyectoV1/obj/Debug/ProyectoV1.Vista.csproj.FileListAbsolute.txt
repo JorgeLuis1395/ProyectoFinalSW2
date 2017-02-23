@@ -1,0 +1,717 @@
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\EntityFramework.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Owin.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\WebGrease.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\EntityFramework.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\JorgeLuis\Documents\GitHub\ReservaHotel\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Owin.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\WebGrease.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\Robinson Huacho\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Owin.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\WebGrease.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\jaime\Documents\GitHub\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\EntityFramework.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Owin.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\WebGrease.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\EntityFramework.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\JorgeLuis\Desktop\PROYECTOSW2HotelReserva1-master\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Owin.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\WebGrease.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\Robinson Huacho\Downloads\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Owin.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\Usuario\Desktop\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.pdb
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll.config
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\ProyectoV1.pdb
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Owin.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\System.Web.Providers.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.Vista.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.dll
+C:\Users\Usuario\Desktop\Proyectos\PROYECTOSW2HotelReserva1\ProyectoV1\obj\Debug\ProyectoV1.pdb

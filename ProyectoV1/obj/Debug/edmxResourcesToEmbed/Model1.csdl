@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="software2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="CEDULA_CLIENTE" />
+    </Key>
+    <Property Name="CEDULA_CLIENTE" Type="Int32" Nullable="false" />
+    <Property Name="NOMBRE" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="APELLIDO" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="DIRECCION" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="TELEFONOS" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="CORREOELECTRONICO" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="HABITACION">
+    <Key>
+      <PropertyRef Name="NUMERO_HABITACION" />
+    </Key>
+    <Property Name="NUMERO_HABITACION" Type="Int32" Nullable="false" />
+    <Property Name="ID_TIPOHABITACION" Type="Int32" />
+    <Property Name="NUMERO_PISO" Type="Int32" />
+    <Property Name="NUMERO_HABITACION_PISO" Type="Int32" />
+  </EntityType>
+  <EntityType Name="RESERVA">
+    <Key>
+      <PropertyRef Name="ID_RESERVA" />
+    </Key>
+    <Property Name="ID_RESERVA" Type="Int32" Nullable="false" />
+    <Property Name="IDRESERVAHABITACION" Type="Int32" />
+    <Property Name="CEDULA_CLIENTE" Type="Int32" />
+    <Property Name="FECHA_RESERVA_INICIO" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="FECHA_RESERVA_FIN" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="RESERVA_HABITACION">
+    <Key>
+      <PropertyRef Name="IDRESERVAHABITACION" />
+    </Key>
+    <Property Name="IDRESERVAHABITACION" Type="Int32" Nullable="false" />
+    <Property Name="ID_TIPOHABITACION" Type="Int32" />
+    <Property Name="CANTIDADHABITACION" Type="Int32" />
+    <Property Name="FECHA_INICIO" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+    <Property Name="FECHA_FIN" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TIPO_HABITACION">
+    <Key>
+      <PropertyRef Name="ID_TIPOHABITACION" />
+    </Key>
+    <Property Name="ID_TIPOHABITACION" Type="Int32" Nullable="false" />
+    <Property Name="PRECIO" Type="Int32" />
+    <Property Name="DETALLE" Type="String" MaxLength="256" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="database_firewall_rules">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="start_ip_address" />
+      <PropertyRef Name="end_ip_address" />
+      <PropertyRef Name="create_date" />
+      <PropertyRef Name="modify_date" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="start_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="end_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="modify_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="software2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" />
+    <EntitySet Name="HABITACION" EntityType="Self.HABITACION" />
+    <EntitySet Name="RESERVA" EntityType="Self.RESERVA" />
+    <EntitySet Name="RESERVA_HABITACION" EntityType="Self.RESERVA_HABITACION" />
+    <EntitySet Name="TIPO_HABITACION" EntityType="Self.TIPO_HABITACION" />
+    <EntitySet Name="database_firewall_rules" EntityType="Self.database_firewall_rules" />
+  </EntityContainer>
+</Schema>
